@@ -1,0 +1,39 @@
+.footer-social {
+    width: 1379px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+
+    margin: 0 41px 188px 41px;
+}
+
+.social-desc {
+    display: flex;
+
+    p {
+        font-family: var(--second-family);
+        font-weight: 400;
+        font-size: 15px;
+        letter-spacing: -0.01em;
+
+        margin-right: 50px;
+    }
+}
+
+.social-icons {
+    display: flex;
+    justify-content: end;
+}
+
+.social-icons__link {
+    margin-right: 51px;
+}
+
+.footer-copyright {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 178%;
+    text-align: center;
+    opacity: 0.5;
+}

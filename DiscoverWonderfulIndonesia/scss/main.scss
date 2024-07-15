@@ -1,0 +1,25 @@
+// Base
+@import "./base/reset";
+@import "./base/base";
+@import "./base/button-details";
+
+// Blocks
+
+// Section header
+@import "./blocks/section-header/header";
+@import "./blocks/section-header/nav";
+@import "./blocks/section-header/header-content";
+
+// Section holiday
+@import "./blocks/section-holiday/holiday";
+
+// Section slider
+@import "./blocks/section-slider/slider";
+
+// Section culture
+@import "./blocks/section-culture/culture";
+
+// Section footer
+@import "./blocks/section-footer/footer-desc";
+@import "./blocks/section-footer/footer-nav";
+@import "./blocks/section-footer/footer-scial";

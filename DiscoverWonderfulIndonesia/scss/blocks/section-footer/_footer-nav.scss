@@ -1,0 +1,94 @@
+.footer-nav {
+    display: flex;
+    margin-bottom: 101px;
+}
+
+.footer-form {
+    position: relative;
+    width: 399px;
+    height: 221px;
+
+    h2 {
+        font-family: var(--font-family);
+        font-weight: 700;
+        font-size: 36px;
+        letter-spacing: -0.01em;
+
+        margin: 0 38px 50px 0;
+    }
+}
+
+.email-form {}
+
+.email-form__input {}
+
+.email-form__button {
+    position: relative;
+    width: 399px;
+    height: 70px;
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+.email__img {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    bottom: 20px;
+}
+
+.footer__bottom-line {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #fff;
+    // opacity: 0.3;
+}
+
+.footer__nav--services {
+    padding: 34px 0px;
+    width: 146px;
+    height: 248px;
+    margin-left: 252px;
+}
+
+.footer__nav--about {
+    padding: 34px 0px;
+    width: 91px;
+    height: 248px;
+    margin-left: 184px;
+}
+
+.footer__nav--help {
+    padding: 34px 0px;
+    width: 105px;
+    height: 158px;
+    margin: 0 0 90px 184px;
+}
+
+.footer__nav-title {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0%;
+    letter-spacing: -0.01em;
+    color: #ffd1a0;
+    margin-bottom: 45px;
+}
+
+.footer__list {}
+
+.footer__list-item {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 19px;
+    gap: 45px;
+    letter-spacing: -0.01em;
+    margin-bottom: 45px;
+
+    a {
+        color: #fff;
+    }
+}
